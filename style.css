@@ -1,3 +1,4 @@
+<style>
 :root {
     --white: hsl(0, 0%, 100%);
     --stone-100: hsl(30, 54%, 90%);
@@ -120,6 +121,8 @@
     .prep-time {
       padding: 0.75rem;
     }
+  }
+     </style>
   
     .nutrition-table td {
       padding: 0.4rem;
